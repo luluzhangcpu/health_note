@@ -6,5 +6,4 @@
 
 * 该笔记仅为私人收藏，作为知识库的补充盲点所用；
 
-
-小红书[笔记](https://www.xiaohongshu.com/explore/65a547b600000000110331ba?xsec_token=ABNbhYRrQNsvqhuYNAoXbWIcH8Lb_zvGNdmy6CKq5WanM=&xsec_source=pc_user)存放处；
+* 小红书[笔记](https://www.xiaohongshu.com/explore/65a547b600000000110331ba?xsec_token=ABNbhYRrQNsvqhuYNAoXbWIcH8Lb_zvGNdmy6CKq5WanM=&xsec_source=pc_user)存放处；
